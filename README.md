@@ -3,8 +3,8 @@
 ```json
 {
 	"dataElementId-val": {
-		"Name": "Name of the data element (just for identification)",
-		"Data": "Actual name or array of the data element(s)",
+		"Name": "Name of the data element being filled by the script",
+		"Data": "Actual name or array of the data element(s)whose values will be extracted to fill the above data element",
 		"Category option combo": "name of the category option combo (id not required)"
 	},
 	"dataElementId-val": {
