@@ -1,5 +1,6 @@
 # tb-scripts
 ## config format
+```json
 {
 	"dataElementId-val": {
 		"Name": "Name of the data element (just for identification)",
@@ -20,3 +21,4 @@
 	}
 	
 }
+```
