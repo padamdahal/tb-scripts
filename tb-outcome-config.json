@@ -1,0 +1,20 @@
+{
+	"oQEevgbIWXI-Uec0VacaHJP-val": {
+		"Name": "PBC New Female",
+		"Data": "TBCP-Case Registration-Pulmonary(BC)-New",
+		"Category option combo": "Female"
+	},
+	"oQEevgbIWXI-vJYN5WJjlYb-val": {
+		"name": "PBC New Male",
+		"Data": "TBCP-Case Registration-Pulmonary(BC)-New",
+		"Category option combo": "Male"
+	},
+	"R1UVusqcsha-ye1QuAMRG5Z-val": {
+		"Name": "PCD Others Female",
+		"Data": ["TBCP-Case Registration-Pulmonary(CD)-Treatment After-Loss to Follow Up",
+			"TBCP-Case Registration-Pulmonary(CD)-Other Previously Treated",
+			"TBCP-Case Registration-Pulmonary(CD)-Previous Treatment History-Unknown"
+		],
+		"Category option combo": "Female"
+	}
+}
